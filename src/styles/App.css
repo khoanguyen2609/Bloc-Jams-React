@@ -1,0 +1,31 @@
+.App header nav {
+  text-align: center;
+  font-size: 1.5em;
+  margin-top: 1em;
+}
+
+.App header nav a:hover {
+  color: white;
+}
+
+.link {
+  margin: 0 10px;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+a:hover, a:active, a:visited, a:focus {
+  text-decoration: none;
+}
+
+.app-title {
+  color: white;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-size: 4.75em;
+  margin-top: 1em;
+}
+
+.App-intro {
+  font-size: large;
+}
